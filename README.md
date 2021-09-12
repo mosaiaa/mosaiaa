@@ -16,4 +16,4 @@ I am a self taught website, software, and app developer.
 
 A free and open source Python code editor and Notepad replacement.
 
-<img height="250" src="ss.png">
+<img height="250" src="ss.JPG">
