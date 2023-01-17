@@ -10,7 +10,7 @@ I am a self taught web, software, and app developer.
 
 ## Main projects
 
-### Pythopad  ([GitHub](https://github.com/maltarawy/pythopad), [Website](https://github.com/BeeeQueue/yuna-website))
+### Pythopad  ([GitHub](https://github.com/maltarawy/pythopad), [Website](https://maltarawy.github.io/pythopad/))
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
